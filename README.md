@@ -5,7 +5,7 @@ Plain-text IME back-end to translate from ASCII pinyin to Unicode hanzi
 
 ## Project Status: Alpha
 
-*This is project not ready for use yet.*
+*This project is not ready for use yet.*
 
 
 ## Language Support
