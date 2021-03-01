@@ -95,7 +95,7 @@ make test
 3. Stop `webserver.rb` with control-c when done
 
 
-### Customize Vocab List
+## Customize Vocab List
 
 1. Read `vocab/autogen-hsk.rb`. There is an array near the top to set which .tsv
    files contain vocab words. Comments describe how the .tsv fields are used.
