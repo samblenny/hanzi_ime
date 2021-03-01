@@ -8,7 +8,8 @@
 //! refactor without breaking the public api.
 
 // Re-export names from modules into the v1 namespace
-pub use crate::dialects::translate_zh_hans;
+pub use crate::constants::BUF_SIZE;
+pub use crate::dialects::{look_up, query, translate_zh_hans, BufWriter, Writer};
 
 /// These tests aim to cover all names exported in the v1 api
 #[cfg(test)]
