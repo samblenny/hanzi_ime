@@ -5,7 +5,10 @@
 #![forbid(unsafe_code)]
 
 mod api;
+mod autogen_hsk;
+pub mod constants;
 mod dialects;
+mod lex;
 mod m3hash;
 
 // Export v1 api names. The point of using re-exports is to allow for splitting
