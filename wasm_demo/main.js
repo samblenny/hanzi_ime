@@ -1,4 +1,6 @@
 "use strict";
+// Copyright (c) 2021 Sam Blenny
+// SPDX-License-Identifier: Apache-2.0 OR MIT
 import { loadWasm, syncMessages } from './wasm_stuff.js';
 
 // HTML UI elements for a chat window

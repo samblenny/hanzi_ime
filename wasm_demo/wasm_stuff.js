@@ -1,3 +1,7 @@
+"use strict";
+// Copyright (c) 2021 Sam Blenny
+// SPDX-License-Identifier: Apache-2.0 OR MIT
+
 // Relative URL to WASM module
 const wasmModule = "demo.wasm";
 
